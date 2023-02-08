@@ -31,5 +31,10 @@ namespace Calculator
         {
             screenLbl.Text += OneBtn.Text;
         }
+
+        private void clearBtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
